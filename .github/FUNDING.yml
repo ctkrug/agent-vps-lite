@@ -1,0 +1,5 @@
+# Shows a "Sponsor" button on the repo. The github: line activates once Charlie enrolls
+# in the GitHub Sponsors program (github.com/sponsors → bank/Stripe onboarding).
+# The custom link works immediately as a fallback (points to the paid kits).
+github: [ctkrug]
+custom: ["https://get.charliekrug.com"]
